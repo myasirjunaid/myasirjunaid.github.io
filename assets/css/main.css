@@ -131,10 +131,8 @@ h1 {
  * Address styling not present in IE 8/9.
  */
 mark {
-  /** background: #ff0; */
-  background: #0000FF;
-  /**color: #000; */
-  color: #FFFFFF;
+  background: #ff0;
+  color: #000;
 }
 
 /**
